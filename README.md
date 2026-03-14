@@ -24,7 +24,7 @@ O projeto foi construído utilizando tecnologias fundamentais do desenvolvimento
 
 O projeto está publicado e pode ser acessado através do link abaixo:
 
-👉 **[LINK PARA O SITE AQUI]** *(Substitua o link acima pelo seu link do GitHub Pages)*
+👉 **[LINK PARA O SITE AQUI]** 
 
 ## 📂 Estrutura de Arquivos
 
