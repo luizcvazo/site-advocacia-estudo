@@ -1,4 +1,4 @@
-# Site Institucional - Dra. Lilia Rizatto Zaparolli
+# Site de estudos - Dra. Lilia Rizatto Zaparolli
 
 Este é um projeto de site institucional desenvolvido para a advogada **Dra. Lilia Rizatto Zaparolli**, com foco em apresentar suas principais áreas de atuação jurídica e facilitar o contato com clientes.
 
