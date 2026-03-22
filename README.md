@@ -24,7 +24,7 @@ O projeto foi construído utilizando tecnologias fundamentais do desenvolvimento
 
 O projeto está publicado e pode ser acessado através do link abaixo:
 
-👉 **[LINK PARA O SITE AQUI]** https://luizcvazo.github.io/site-advocacia-estudo/
+👉 **[https://luizcvazo.github.io/site-advocacia-estudo/]** 
 
 ## 📂 Estrutura de Arquivos
 
